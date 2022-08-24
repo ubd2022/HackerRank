@@ -16,6 +16,7 @@ Output Format
 
 Print Weird if the number is weird. Otherwise, print Not Weird.
 '''
+
 import math
 import os
 import random
